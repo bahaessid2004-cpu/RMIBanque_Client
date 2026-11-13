@@ -12,6 +12,7 @@ public class BanqueClient {
 
             try {
 
+
                 Context ctx =
                         new InitialContext();
 
